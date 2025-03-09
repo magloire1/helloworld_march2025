@@ -1,1 +1,4 @@
-# helloworld_march2025
+# maven-project
+
+Simple Maven Project
+<br
